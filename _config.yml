@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Analyze. Break. Create."
+title                    : "Data Scientist En Route"
 title_separator          : "-"
 name                     : "Kristi Kwon"
-description              : "Data Scientist En Route"
+description              : "A blog about me analyzing, breaking, and creating things."
 url                      : "https://kristikwon.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "kristikwon/kristikwon.github.io"

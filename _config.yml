@@ -10,7 +10,7 @@ locale                   : "en"
 title                    : "Data Scientist En Route"
 title_separator          : "-"
 name                     : "Kristi Kwon"
-description              : "A blog about me analyzing, breaking, and creating things."
+description              : 
 url                      : "https://kristikwon.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "kristikwon/kristikwon.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Kristi Kwon"
   avatar           : "/assets/images/profile_pic.jpg"
-  bio              : "Data scientist en route."
+  bio              : "A blog about me analyzing, breaking, and creating things."
   location         : "SF"
   email            : "kristi.kwon11@gmail.com"
   uri              : "http://kristikwon.github.io"
